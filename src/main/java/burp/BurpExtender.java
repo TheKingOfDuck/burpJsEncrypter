@@ -33,7 +33,7 @@ public class BurpExtender implements IBurpExtender,IIntruderPayloadProcessor {
                                 + "[+]\n"
                                 + "[+] #####################################\n"
                                 + "[+]    " + BurpExtender.extensionName + " v" + BurpExtender.version +"\n"
-                                + "[+]    Anthor: 米斯特burp生态项目组：CoolCat\n"
+                                + "[+]    Anthor: 米斯特burp生态项目组CoolCat\n"
                                 + "[+]    Github: https://github.com/TheKingOfDuck\n"
                                 + "[+] ######################################";
                 stdout.println(bannerInfo);
