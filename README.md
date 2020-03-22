@@ -2,6 +2,8 @@
 
 More: [重写一个burpJsEncrypter](https://blog.gzsec.org/post/ReCode-A-BurpJsEncrypter/)
 
+Releases:[download](https://github.com/TheKingOfDuck/burpJsEncrypter/releases/download/0.1/burpJsEncrypter-0.1.jar)
+
 ### 编译
 
 ```
