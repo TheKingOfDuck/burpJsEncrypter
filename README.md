@@ -4,6 +4,8 @@ More: [重写一个burpJsEncrypter](https://blog.gzsec.org/post/ReCode-A-BurpJsE
 
 Releases:[download](https://github.com/TheKingOfDuck/burpJsEncrypter/releases/download/0.1/burpJsEncrypter-0.1.jar)
 
+涉及浏览器内置对象的JS算法库暂无法支持，已知Bug，正在尝试其他方案中...
+
 ### 更新
 
 **20200324**:
